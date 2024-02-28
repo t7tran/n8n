@@ -16,7 +16,7 @@ import axios from 'axios';
 export class GoogleApi implements ICredentialType {
 	name = 'googleApi';
 
-	displayName = 'Google Service Account API';
+	displayName = 'Google Service Account API1';
 
 	documentationUrl = 'google/service-account';
 
