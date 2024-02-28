@@ -1,3 +1,7 @@
+## [1.30.1](https://github.com/t7tran/n8n/compare/n8n@1.27.0...n8n@1.30.1) (2024-02-28)
+
+
+
 # [1.30.0](https://github.com/n8n-io/n8n/compare/n8n@1.29.0...n8n@1.30.0) (2024-02-21)
 
 
